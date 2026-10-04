@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Movie Ticket Booking System",
+            "request": "launch",
+            "mainClass": "moviebooking.Main"
+        }
+    ]
+}
